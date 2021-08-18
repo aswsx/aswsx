@@ -20,8 +20,11 @@ Junior Software Engineer. I have knowledge in backend development on Java.
 
 ## 🛠 Technical Stack
 *   Java language
-*   PostgreSQL, Liquibase
+*   PostgreSQL, JDBC, Liquibase
+*   Quartz, JSOUP
 *   GitHub
+*   JUnit4
+*   
 
 ### My opensource projects
 
