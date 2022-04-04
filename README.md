@@ -14,10 +14,6 @@ Junior Software Engineer. I have knowledge in backend development on Java.
    📫 How to reach me: <a href='mailto:lextor78@gmail.com'>lextor78@gmail.com</a>
 </p>
 
-
-### Key points
-*   
-
 ## Навыки
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
