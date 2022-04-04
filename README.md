@@ -18,12 +18,7 @@ Junior Software Engineer. I have knowledge in backend development on Java.
 ### Key points
 *   
 
-## 🛠 Technical Stack
-*   Java language
-*   PostgreSQL, JDBC, Liquibase
-*   Quartz, JSOUP
-*   GitHub
-*   JUnit4
+## Навыки
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
