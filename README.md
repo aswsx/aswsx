@@ -31,7 +31,7 @@ Junior Software Engineer. I have knowledge in backend development on Java.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-003f5c?style=for-the-badge&logo=Bootstrap)
 ![ThymeLeaf](https://img.shields.io/badge/-ThymeLeaf-003f5c?style=for-the-badge&logo=ThymeLeaf)
 ![Mockito](https://img.shields.io/badge/-Mockito-003f5c?style=for-the-badge&logo=Mockito)
-[Postman](https://img.shields.io/badge/-Postman-003f5c?style=for-the-badge&logo=Postman)
+![Postman](https://img.shields.io/badge/-Postman-003f5c?style=for-the-badge&logo=Postman)
 ![JSOUP](https://img.shields.io/badge/-JSOUP-003f5c?style=for-the-badge&logo=JSOUP)
 ![LiquiBase](https://img.shields.io/badge/-LiquiBase-003f5c?style=for-the-badge&logo=LiquiBase)
 ![Quartz](https://img.shields.io/badge/-Quartz-003f5c?style=for-the-badge&logo=Quartz)
