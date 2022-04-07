@@ -14,7 +14,9 @@ Junior Software Engineer. I have knowledge in backend development on Java.
    📫 How to reach me: <a href='mailto:lextor78@gmail.com'>lextor78@gmail.com</a>
 </p>
 
+<p align='center'>
 [![trophy](https://github-profile-trophy.vercel.app/?username=aswsx&theme=darkhub)](https://github.com/aswsx/github-profile-trophy)
+</p>
 
 ## Навыки
 
